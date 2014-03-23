@@ -145,7 +145,7 @@ function init_gmap() {
       action: 'init',
       marker: {
         values:[
-              {address:"Gen. T. De Leon, Valenzuela City, Metro Manila, Philippines", data:"<p>Im near here!<p><img style='width:100px;height:100px;' src=\"avatar.png\"/>", 
+              {address:"Gen. T. De Leon, Valenzuela City, Metro Manila, Philippines", data:"<p>Im near here!<p><img style='width:100px;height:100px;' src='https://github.com/mcdave029/mcdave029.github.io/blob/master/mcdave/assets/images/avatar.png'/>", 
               // options:{icon: "marker_green.png"}
             }
             ],
